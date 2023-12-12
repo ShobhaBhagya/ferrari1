@@ -8,3 +8,8 @@ In Git, a commit represents a snapshot of your project at a specific point in ti
 
 Branches
 Git allows you to create branches, which are independent lines of development. Each branch can have its own commits, allowing multiple developers to work on different features or bug fixes simultaneously. Branches make it easy to experiment, collaborate, and merge changes back into the main codebase.
+
+Working Directory, Staging Area, and Repository
+
+Basic Workflow
+
