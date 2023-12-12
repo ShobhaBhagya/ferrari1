@@ -1,3 +1,5 @@
+Git is a distributed version control system that allows multiple developers to collaborate on a project, tracking changes to files and managing different versions of the codebase.
+
 Repositories
 A Git repository is a directory or folder that contains your project's files, as well as the entire history of changes made to those files. It acts as a central hub for collaboration.
 
