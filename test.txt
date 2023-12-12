@@ -1,0 +1,8 @@
+Repositories
+A Git repository is a directory or folder that contains your project's files, as well as the entire history of changes made to those files. It acts as a central hub for collaboration.
+
+Commits
+In Git, a commit represents a snapshot of your project at a specific point in time. Each commit is associated with a unique identifier (a hash) and contains information such as the author, timestamp, and a message describing the changes made in that commit.
+
+Branches
+Git allows you to create branches, which are independent lines of development. Each branch can have its own commits, allowing multiple developers to work on different features or bug fixes simultaneously. Branches make it easy to experiment, collaborate, and merge changes back into the main codebase.
